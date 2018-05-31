@@ -1,0 +1,3 @@
+打开命令 npm start
+
+模拟cnode.js页面  
