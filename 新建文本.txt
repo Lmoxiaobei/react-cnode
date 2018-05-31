@@ -1,3 +1,7 @@
 打开命令 npm start
 
 模拟cnode.js页面  
+
+登录账号 d12252e5-503c-488b-839f-4e7441c6dafc
+
+网址 https://brave-poincare-111361.netlify.com/
